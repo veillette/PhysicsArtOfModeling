@@ -1,8 +1,19 @@
-# MyST build outputs
-_build
+# Compiled output
+dist/
+_build/
+exports/
 
-# MyST build outputs
-_build
+# Node
+node_modules/
+npm-debug.log
 
-# MyST build outputs
-_build
+# VSCode
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+/.venv/
