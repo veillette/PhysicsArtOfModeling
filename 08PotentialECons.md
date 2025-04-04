@@ -112,7 +112,7 @@ Is the force of gravity on an object of mass $m$, near the surface of the Earth,
 ```{math}
 \vec F(x,y,z) =0\hat x + 0\hat y -mg \hat z
 ```
-conservative? Note that we have defined the $z$ axis to be vertical and positive upwards.}
+conservative? Note that we have defined the $z$ axis to be vertical and positive upwards.
 :::{note} Solutions
 :class: dropdown
 The force is expected to be conservative since it is constant in magnitude and direction. We can verify this using the conditions in [](#eq:potentialecons:conservative):
@@ -534,7 +534,7 @@ We can describe the motion of the block in terms of its total mechanical energy,
 ```{math}
 U(x)=\frac{1}{2}kx^2
 ```
-On the right of [](#fig:potentialecons:springE) is an "Energy Diagram" for the block, which allows us to examine how the total energy, $E$, of the block is divided between kinetic and potential energy depending on the position of the block. The vertical axis corresponds to energy and the horizontal axis corresponds to the position of the block. 
+On the right of [](#fig:potentialecons:springE) is an "Energy Diagram" for the block, which allows us to examine how the total energy, $E$, of the block is divided between kinetic and potential energy depending on the position of the block. The vertical axis corresponds to energy and the horizontal axis corresponds to the position of the block.
 
 The total mechanical energy, $E=25 {\rm J}$, is shown by the horizontal red line. Also illustrated are the potential energy function ($U(x)$ in blue), and the kinetic energy, ($K=E-U(x)$, in dotted black).
 ```{figure} figures/PotentialECons/springE.png
