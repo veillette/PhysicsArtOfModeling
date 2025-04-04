@@ -1,14 +1,16 @@
 # Introductory Physics: Modeling with Physics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/troymessina/PhysicsArtOfModeling/main/figures/primary_rgb.png" alt="Physics Modeling Logo" width="100"/>
   
   [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-success)](https://troymessina.github.io/PhysicsArtOfModeling/)
   [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
   [![MyST Markdown](https://img.shields.io/badge/Made%20with-MyST-blue)](https://mystmd.org)
 </div>
-
-> **Note:** View the interactive cover simulation [here](https://trinket.io/glowscript/df91d03f90?outputOnly=true&start=result)
+:::{iframe} https://trinket.io/embed/glowscript/df91d03f90?outputOnly=true&start=result
+:label: Cover
+:width: 100%
+:align: center
+::: 
 
 ## About This Textbook
 
