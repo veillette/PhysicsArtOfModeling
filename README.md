@@ -74,12 +74,6 @@ npm run build
 
 # Serve locally
 npm run serve
-
-# Create PDF version
-npm run pdf
-
-# Create Word document
-npm run docx
 ```
 
 ## Contributing
